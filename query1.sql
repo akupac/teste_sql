@@ -1,5 +1,5 @@
 SELECT 
-	V.ID_VENDEDOR AS id, 
+    V.ID_VENDEDOR AS id, 
     V.NOME as nome, 
     V.SALARIO as salario 
 FROM 
