@@ -1,7 +1,7 @@
 SELECT 
     V.ID_VENDEDOR AS id, 
-    V.NOME as nome, 
-    V.SALARIO as salario 
+    V.NOME AS nome, 
+    V.SALARIO AS salario 
 FROM 
     VENDEDORES V
 WHERE 
